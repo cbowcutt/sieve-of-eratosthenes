@@ -1,7 +1,7 @@
 {
   "name": "sieve-of-eratosthenes",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.0",
+  "description": "find all prime numbers in a sequence from 2..n",
   "main": "index.js",
   "scripts": {
     "test": "jest __specs__/index.spec.js"
