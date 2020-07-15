@@ -1,0 +1,16 @@
+{
+  "name": "sieve-of-eratosthenes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest __specs__/index.spec.js"
+  },
+  "author": "Christopher Bowcutt",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jest": "^26.1.0"
+  }
+}
