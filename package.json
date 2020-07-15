@@ -1,5 +1,5 @@
 {
-  "name": "sieve-of-eratosthenes",
+  "name": "prime-number-sequence",
   "version": "0.0.0",
   "description": "find all prime numbers in a sequence from 2..n",
   "main": "index.js",

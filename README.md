@@ -9,7 +9,7 @@ Find all prime numbers in a sequence from 2..n using the Sieve of Eratosthenes a
 #### example
 
 ```javascript
-let sieve = require('sieve');
+let sieve = require('prime-number-sequence');
 
 
 // returns [2, 3, 5, 7]
